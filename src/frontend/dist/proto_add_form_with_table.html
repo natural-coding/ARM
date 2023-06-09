@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="protocol_add.css">
+ <script src="protocol_add.js"></script>
+ <title>Новый протокол</title>
+</head>
+<body>
+<h2>Новый протокол</h2>
+
+<form id="proto-add-form" method="POST" action="ajax_test.php">
+
+<table border="0" cellpadding="2" cellspacing="20">
+   
+   <tr>
+      <td><label for="proto_ordnum">Номер протокола</label></td>
+      <td><input type="text" id="proto_ordnum" name="proto_ordnum"/></td>
+   </tr>
+
+   <tr>
+      <td><label for="test_date">Дата выдачи</label></td>
+      <td><input type="text" id="test_date" name="test_date" placeholder="ДД.ММ.ГГ"/></td>
+   </tr>
+
+   <tr>
+      <td><label for="employee">Ответственный сотрудник</label></td>
+      <td><input type="text" id="employee" name="employee"></td>
+   </tr>
+
+   <tr>
+      <td><label for="values_ok_flag">Соответствие</label></td>
+      <td>
+         <select id="values_ok_flag" name="values_ok_flag">
+            <option value="1" selected> Да
+            <option value="0"> Нет
+         </select>
+      </td>
+   </tr>
+
+   <tr>
+      <td colspan="2" align="left">
+         <input type="submit" name="submit" value="Добавить" style="margin-top: 1rem">
+      </td>
+   </tr>
+
+</table>
+
+<a href="http://localhost/protocol.php"><<< К списку протоколов</a>
+
+</form>  
+
+</body>
+</html>

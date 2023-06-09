@@ -1,0 +1,61 @@
+Старт проекта
+05.06.2023 16:50
+vvvvvvvvvvvvvvvvvvvvvvvv
+"01 b getting started"
+"02 f getting started"
+"03 f proto add form"
+"04 b prot add stub"
+"05 b prot add redirect always"
+"06 b prot redirect 301 302 digging"
+"07 b new location format"
+^^^^^^^^^^^^^^^^^^^^^^^^
+05.06.2023 21:19
+
+
+"08 == daily backup"
+"09 b ajax stub"
+"10 f formSubmit_EventListener stub preventDefault"
+"11 b json_encode test"
+"12 f ajax-test works!!"
+"13 b parse json request investigation"
+"14 b json parsing works!!!!!!"
+"15 f client side redirect when success"
+"16 b proto-add.php POST GET stub"
+"17 b proto-add ajax stub works"
+"18 b db_test.php fetch count"
+"19 b db_test.php fetch count as json parameter"
+"20 b insert plus refactor common.inc.php"
+"21 b proto-add refactor"
+"22 b IT WORKS!!"
+"23 b db_test.php russian letters in JSON"
+"24 b mysql unicode cyrillic NO WAY"
+"25 b mysql cyrillic works utf8 probably it helps!!"
+^^^^^^^^^^^^^^^^^^^^^^^^
+06.06.2023 19:53
+
+"26 == daily backup"
+"27 b JSON_UNESCAPED_UNICODE"
+"28 b db_test.php checkInputJson for proto_ordnum field"
+"29 b backup preg_match and russian letters digging"
+"30 b employee FIO regex works!!"
+"31 b input field checks works!!"
+"32 b add employee name"
+"33 b protocol.php show employee name"
+"34 b proto_add.php FIO length check"
+"35 f date input as text field!! no right way"
+"36 b db_test.php date check"
+"37 b db_test.php date plus 2000"
+"38 b DayMonthYearArray after check"
+"39 b db_test.php insert date works"
+"40 b add date works!!"
+"41 b protocol.php print date"
+"42 f add-record anchor style"
+"43 b values_ok_flag output"
+"44 f values_ok_flag field"
+"45 b add values_ok_flag PDO_ERRMODE_EXCEPTION"
+"46 f new form template"
+"47 f new form template in php"
+"48 backup"
+^^^^^^^^^^^^^^^^^^^^^^^^
+07.07.2023 16:53
+Milestone I

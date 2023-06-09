@@ -1,0 +1,4 @@
+print '<pre>';
+var_dump($formVars);
+print '</pre>';
+die;

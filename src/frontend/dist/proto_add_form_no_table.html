@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+ <link rel="stylesheet" href="protocol_add.css">
+ <script src="protocol_add.js"></script>
+ <title>Новый протокол</title>
+</head>
+<body>
+<h2>Новый протокол</h2>
+
+<form id="proto-add-form" method="POST" action="ajax_test.php">
+
+<label for="proto_ordnum">Номер протокола</label>
+<input type="text" id="proto_ordnum" name="proto_ordnum"/><br/><br/>
+
+<label for="test_date">Дата выдачи</label>
+<input type="text" id="test_date" name="test_date" placeholder="ДД.ММ.ГГ"/>
+<br/><br/>
+
+
+<label for="employee">Ответственный сотрудник</label>
+<input type="text" id="employee" name="employee"><br/><br/>
+
+<label for="values_ok_flag">Соответствие</label>
+<select id="values_ok_flag" name="values_ok_flag">
+   <option value="1" selected> Да
+   <option value="0"> Нет
+</select>
+<br/><br/>
+
+<input type="submit" name="submit" value="Добавить">
+<!-- <input type="submit" name="submit" value="[AJAX-TEST] Добавить"> -->
+</form>  
+
+</body>
+</html>

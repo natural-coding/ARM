@@ -1,0 +1,52 @@
+proto_add.php:1 Unchecked runtime.lastError: The message port closed before a response was received.
+proto_add.php:1 Unchecked runtime.lastError: The message port closed before a response was received.
+proto_add.php:1 Unchecked runtime.lastError: The message port closed before a response was received.
+proto_add.php:1 Unchecked runtime.lastError: The message port closed before a response was received.
+favicon.ico:1          GET http://localhost/favicon.ico 404 (Not Found)
+protocol_add.js:30 {"proto_ordnum":"854"}
+protocol_add.js:15 Array
+(
+    [HTTP_HOST] => localhost
+    [HTTP_CONNECTION] => keep-alive
+    [CONTENT_LENGTH] => 22
+    [HTTP_SEC_CH_UA] => "Chromium";v="108", "Not?A_Brand";v="8"
+    [HTTP_SEC_CH_UA_PLATFORM] => "Windows"
+    [HTTP_SEC_CH_UA_MOBILE] => ?0
+    [HTTP_USER_AGENT] => Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+    [CONTENT_TYPE] => application/json; charset=UTF-8
+    [HTTP_ACCEPT] => */*
+    [HTTP_ORIGIN] => http://localhost
+    [HTTP_SEC_FETCH_SITE] => same-origin
+    [HTTP_SEC_FETCH_MODE] => cors
+    [HTTP_SEC_FETCH_DEST] => empty
+    [HTTP_REFERER] => http://localhost/proto_add.php
+    [HTTP_ACCEPT_ENCODING] => gzip, deflate, br
+    [HTTP_ACCEPT_LANGUAGE] => en-US,en;q=0.9,ru;q=0.8,hy;q=0.7
+    [SystemRoot] => C:\Windows
+    [COMSPEC] => C:\Windows\system32\cmd.exe
+    [PATHEXT] => .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+    [WINDIR] => C:\Windows
+    [SERVER_SIGNATURE] => 
+    [SERVER_SOFTWARE] => Apache/2.4.35 (Win64) OpenSSL/1.1.1l PHP/7.4.26
+    [SERVER_NAME] => localhost
+    [SERVER_ADDR] => ::1
+    [SERVER_PORT] => 80
+    [REMOTE_ADDR] => ::1
+    [DOCUMENT_ROOT] => I:/laragon/www/!!webroot_symlink
+    [REQUEST_SCHEME] => http
+    [CONTEXT_PREFIX] => 
+    [CONTEXT_DOCUMENT_ROOT] => I:/laragon/www/!!webroot_symlink
+    [SERVER_ADMIN] => admin@example.com
+    [SCRIPT_FILENAME] => I:/laragon/www/!!webroot_symlink/ajax_test.php
+    [REMOTE_PORT] => 54830
+    [GATEWAY_INTERFACE] => CGI/1.1
+    [SERVER_PROTOCOL] => HTTP/1.1
+    [REQUEST_METHOD] => POST
+    [QUERY_STRING] => 
+    [REQUEST_URI] => /ajax_test.php
+    [SCRIPT_NAME] => /ajax_test.php
+    [PHP_SELF] => /ajax_test.php
+    [REQUEST_TIME_FLOAT] => 1686040526.4335
+    [REQUEST_TIME] => 1686040526
+)
+

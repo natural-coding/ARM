@@ -1,0 +1,1 @@
+SELECT count(*) FROM pdo.protocol_table where proto_ordnum=13
