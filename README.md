@@ -45,4 +45,4 @@ PROTOCOL_TABLE и возврат к таблице с протоколами.
 
 Показывается типовое сообщение об ошибке "Проверьте данные", хотя в бекенде целый массив отдаётся как JSON с подробным описанием ошибок валидации данных для каждого поля формы. (Thanks to [jQuery in Action book](https://www.manning.com/books/jquery-in-action-third-edition)! Chapter 11!)
 
-Сделал за два дня (см. файлы [timeline.txt](../blob/master/project-management/timeline.txt), [timeline.txt](../blob/master/project-management/timeline-detailed.txt)), т.к. опыта именно в приложениях такого типа не было. Время потратилось, чтобы настроиться на PHP, Ajax и frontend, и плюс разбирался с кириллицей и встроенными функциями MySQL.
+Сделал за два дня (см. файлы [timeline.txt](./blob/main/project-management/timeline.txt), [timeline.txt](./blob/main/project-management/timeline-detailed.txt)), т.к. опыта именно в приложениях такого типа не было. Время потратилось, чтобы настроиться на PHP, Ajax и frontend, и плюс разбирался с кириллицей и встроенными функциями MySQL.
