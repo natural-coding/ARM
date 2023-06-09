@@ -2,14 +2,14 @@
 
 ### Папки проекта
 
-- **src** => Всё, что относится к исходному коду
-- **project-management**
-	- !approach.txt => Подход к решению задачи
-	- requirement-specification.txt => Техническое задание
-	- time-consuming-activities.txt => "Пожиратели" времени along the way
-	- timeline.txt => Выделение времени с часами и минутами на проект
-	- timeline-detailed.txt => Все 48 "коммитов" от пустой папки до конечного продукта
-- **screenshots** => Главный экран приложения и примеры обрабатываемых ошибок
+- [**src**](./src) => Всё, что относится к исходному коду
+- [**project-management**](./project-management)
+	- [!approach.txt](./project-management/!approach.txt) => Подход к решению задачи
+	- [requirement-specification.txt](./project-management/requirement-specification.txt) => Техническое задание
+	- [time-consuming-activities.txt](./project-management/time-consuming-activities.txt) => "Пожиратели" времени along the way
+	- [timeline.txt](./project-management/timeline.txt) => Выделение времени с часами и минутами на проект
+	- [timeline-detailed.txt](./project-management/timeline-detailed.txt) => Все 48 "коммитов" от пустой папки до конечного продукта
+- [**screenshots**](./screenshots) => Главный экран приложения и примеры обрабатываемых ошибок
 
 ### Техническое задание
 Выполните, пожалуйста, небольшое тестовое задание, так мы сможем лучше познакомиться и сэкономим и ваше время, и наше. Мы не ограничиваем по времени, но рассчитываем, что на выполнение у вас уйдет не больше часа. Если это не так, пожалуйста, дайте нам знать об этом и аргументируйте почему. Спасибо! 
@@ -45,4 +45,4 @@ PROTOCOL_TABLE и возврат к таблице с протоколами.
 
 Показывается типовое сообщение об ошибке "Проверьте данные", хотя в бекенде целый массив отдаётся как JSON с подробным описанием ошибок валидации данных для каждого поля формы. (Thanks to [jQuery in Action book](https://www.manning.com/books/jquery-in-action-third-edition)! Chapter 11!)
 
-Сделал за два дня (см. файлы [timeline.txt](./project-management/timeline.txt), [timeline.txt](./project-management/timeline-detailed.txt)), т.к. опыта именно в приложениях такого типа не было. Время потратилось, чтобы настроиться на PHP, Ajax и frontend, и плюс разбирался с кириллицей и встроенными функциями MySQL.
+Сделал за два дня (см. файлы [timeline.txt](./project-management/timeline.txt), [timeline-detailed.txt](./project-management/timeline-detailed.txt)), т.к. опыта именно в приложениях такого типа не было. Время потратилось, чтобы настроиться на PHP, Ajax и frontend, и плюс разбирался с кириллицей и встроенными функциями MySQL.
